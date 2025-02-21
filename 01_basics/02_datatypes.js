@@ -20,3 +20,7 @@ let isLoggedIn = false
 // symbol => for unique
 
 // object
+
+console.log(typeof "tejendra");
+console.log(typeof null);  /* object */
+console.log(typeof undefined);  /* undefined */
